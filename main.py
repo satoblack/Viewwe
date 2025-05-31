@@ -230,4 +230,4 @@ def main(viewers: int = 1, username: str = "username", proxy: Optional[str] = No
         cleanup_handlers(active_handlers)
 
 if __name__ == "__main__":
-    main(viewers=1000, username="username")
+    main(viewers=5000, username="dokielofi")
